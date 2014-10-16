@@ -1,0 +1,9 @@
+{
+  "name": "node-oauth-test",
+  "description": "Prueba node + express + oauth",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.x"
+  }
+}
